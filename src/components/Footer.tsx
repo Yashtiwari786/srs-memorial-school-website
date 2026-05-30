@@ -206,7 +206,7 @@ export default function Footer() {
             &copy; {currentYear} S.R.S. Memorial Kids Garden School. All Rights Reserved.
           </div>
           <div className="flex items-center gap-6">
-            <span>Designed with ❤️ by HarshVardhan Tiwari</span>
+            <span>Designed with ❤️ by HarshVardhan</span>
             <button
               onClick={scrollToTop}
               className="bg-gold-primary hover:bg-gold-hover text-navy-dark w-9 h-9 rounded-xl flex items-center justify-center shadow-lg transition-all duration-300 hover:scale-110 active:scale-90 animate-bounce"
